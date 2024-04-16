@@ -1,6 +1,5 @@
 # Professional Commit
-### Commit Semantic
-<br>
+## Commit Semantic
 <br>
 
 See how a minor change to your commit message style can make you a better programmer.
@@ -35,8 +34,9 @@ References:
 - https://www.conventionalcommits.org/
 - https://seesparkbox.com/foundry/semantic_commit_messages
 - http://karma-runner.github.io/1.0/dev/git-commit-msg.html
-### Emoji in Commit
 <br>
+
+## Emoji in Commit
 <br>
 
 |   Commit type              | Emoji                                         |
