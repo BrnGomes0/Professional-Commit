@@ -1,5 +1,5 @@
 # Professional Commit
-## Commit Semantic
+## Commit Semantic type
 <br>
 
 See how a minor change to your commit message style can make you a better programmer.
