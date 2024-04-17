@@ -8,7 +8,7 @@ Format: `<type>(<scope>): <subject>`
 
 `<scope>` is optional
 
-## Example
+## Example semantic
 
 ```
 feat: add hat wobble
