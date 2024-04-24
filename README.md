@@ -1,4 +1,4 @@
-# Professional Commit - How commit professional ?
+# Professional Commit
 ## Commit Semantic
 <br>
 
